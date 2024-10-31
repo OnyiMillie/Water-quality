@@ -1,6 +1,6 @@
 ---
 title: "Exploratory data analysis of Water and Air quality"
-format: pdf
+format: Docx
 execute: 
   warning: false
   message: false
